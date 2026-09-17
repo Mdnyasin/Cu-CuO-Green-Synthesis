@@ -1,0 +1,5 @@
+﻿extract,factor,factor_value,factor_unit,A400_digitized,response_unit,data_type,wavelength_nm,
+CGS,Reaction,time,30,min,0.27062,a.u.,digitized_experimental,400
+CGS,Reaction,time,60,min,0.24311,a.u.,digitized_experimental,400
+CGS,Reaction,time,90,min,0.33651,a.u.,digitized_experimental,400
+CGS,Reaction,time,120,min,0.37746,a.u.,digitized_experimental,400

@@ -1,0 +1,6 @@
+﻿extract,factor,factor_value,factor_unit,A400_digitized,response_unit,data_type,wavelength_nm,
+CP,Reaction,temperature,40,°C,0.29724,a.u.,digitized_experimental,400
+CP,Reaction,temperature,60,°C,0.35827,a.u.,digitized_experimental,400
+CP,Reaction,temperature,70,°C,0.27657,a.u.,digitized_experimental,400
+CP,Reaction,temperature,80,°C,0.28543,a.u.,digitized_experimental,400
+CP,Reaction,temperature,90,°C,0.3686,a.u.,digitized_experimental,400

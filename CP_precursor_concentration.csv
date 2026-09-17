@@ -1,0 +1,9 @@
+﻿extract,factor,factor_value,factor_unit,A400_digitized,response_unit,data_type,wavelength_nm,,,
+CP,Cu2+,precursor,concentration,1,mmol,L−1,0.25489,a.u.,digitized_experimental,400
+CP,Cu2+,precursor,concentration,5,mmol,L−1,0.20278,a.u.,digitized_experimental,400
+CP,Cu2+,precursor,concentration,10,mmol,L−1,0.19485,a.u.,digitized_experimental,400
+CP,Cu2+,precursor,concentration,15,mmol,L−1,0.22884,a.u.,digitized_experimental,400
+CP,Cu2+,precursor,concentration,20,mmol,L−1,0.22544,a.u.,digitized_experimental,400
+CP,Cu2+,precursor,concentration,25,mmol,L−1,0.18805,a.u.,digitized_experimental,400
+CP,Cu2+,precursor,concentration,30,mmol,L−1,0.22091,a.u.,digitized_experimental,400
+CP,Cu2+,precursor,concentration,35,mmol,L−1,0.17446,a.u.,digitized_experimental,400

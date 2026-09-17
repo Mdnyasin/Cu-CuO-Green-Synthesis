@@ -1,0 +1,5 @@
+﻿extract,factor,factor_value,factor_unit,A400_digitized,response_unit,data_type,wavelength_nm,
+CGS,Extraction,temperature,40,°C,0.44305,a.u.,digitized_experimental,400
+CGS,Extraction,temperature,60,°C,0.46311,a.u.,digitized_experimental,400
+CGS,Extraction,temperature,70,°C,0.53835,a.u.,digitized_experimental,400
+CGS,Extraction,temperature,80,°C,0.5233,a.u.,digitized_experimental,400

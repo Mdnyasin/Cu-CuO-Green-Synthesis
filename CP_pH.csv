@@ -1,0 +1,7 @@
+﻿extract,factor,factor_value,factor_unit,A400_digitized,response_unit,data_type,wavelength_nm
+CP,pH,6,dimensionless,0.22783,a.u.,digitized_experimental,400
+CP,pH,8,dimensionless,0.26867,a.u.,digitized_experimental,400
+CP,pH,9,dimensionless,0.37568,a.u.,digitized_experimental,400
+CP,pH,10,dimensionless,0.40042,a.u.,digitized_experimental,400
+CP,pH,11,dimensionless,0.33886,a.u.,digitized_experimental,400
+CP,pH,12,dimensionless,0.25889,a.u.,digitized_experimental,400

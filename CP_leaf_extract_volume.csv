@@ -1,0 +1,7 @@
+﻿extract,factor,factor_value,factor_unit,A400_digitized,response_unit,data_type,wavelength_nm,,
+CP,Leaf,extract,volume,3,mL,0.33628,a.u.,digitized_experimental,400
+CP,Leaf,extract,volume,4,mL,0.3531,a.u.,digitized_experimental,400
+CP,Leaf,extract,volume,5,mL,0.37257,a.u.,digitized_experimental,400
+CP,Leaf,extract,volume,6,mL,0.36549,a.u.,digitized_experimental,400
+CP,Leaf,extract,volume,8,mL,0.34779,a.u.,digitized_experimental,400
+CP,Leaf,extract,volume,10,mL,0.32212,a.u.,digitized_experimental,400

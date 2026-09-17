@@ -1,0 +1,5 @@
+﻿extract,factor,factor_value,factor_unit,A400_digitized,response_unit,data_type,wavelength_nm,,
+CGS,Leaf,extraction,time,15,min,0.62677,a.u.,digitized_experimental,400
+CGS,Leaf,extraction,time,30,min,0.48976,a.u.,digitized_experimental,400
+CGS,Leaf,extraction,time,60,min,0.48032,a.u.,digitized_experimental,400
+CGS,Leaf,extraction,time,120,min,0.53701,a.u.,digitized_experimental,400

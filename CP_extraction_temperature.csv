@@ -1,0 +1,5 @@
+﻿record_id,extract,factor,factor_value,factor_unit,A400_digitized,response_unit,data_type,wavelength_nm,
+1,CP,Extraction,temperature,40,°C,0.30657,a.u.,digitized_experimental,400
+2,CP,Extraction,temperature,60,°C,0.34286,a.u.,digitized_experimental,400
+3,CP,Extraction,temperature,70,°C,0.36288,a.u.,digitized_experimental,400
+4,CP,Extraction,temperature,80,°C,0.40793,a.u.,digitized_experimental,400
